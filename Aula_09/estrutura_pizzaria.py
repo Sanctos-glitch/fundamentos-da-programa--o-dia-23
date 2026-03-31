@@ -1,0 +1,13 @@
+# Variáveis da pizzaria
+FRETE = 2 #Constante Fake em python
+pizza_sabor = input("Informe o sabor da pizza: [frango com requeijão], [calabresa], [mussaela], [banana com chocolate]: ") 
+pizza_tamanho = input ("Informe o tamanho da pizza: [pequena], [média], [grande]: ")
+dia_semana = input("Informe o dia da semana: [quarta], [quinta], [sexta], [sábado], [domingo]: ")
+
+print(f" O sabor escolhido da pizza é {pizza_sabor}, o tamanho é {pizza_tamanho}, e hoje é {dia_semana}.")
+# promoções -> estruturas condicionais 
+
+# Comprando qualquer pizza qualquer tamanho no sábado, o refri é gratúito
+
+#comprando qualquer pizza de qualquer tamanho no domingo, o frete e o refri são gratúitos
+
