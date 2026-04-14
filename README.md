@@ -33,6 +33,32 @@ f(variavel) -> insere uma variavel dentro da string
 ``elif (senão se)`` -> é usado para testar várias condições. Ele só executa se todas as condições anteriores foram falsas.
 ``else`` (senão) -> executa o código se a condição for false (falsa).
 
+# Laços de repetição
+é um recurso de programação que permite executar um comjunto de comando varias vezes. Também são chamados de loop, laços de repetição ou iteração.
+
+``FOR``-> Utilizamos quando sabemos quantas vezes queremos repetir algo 
+sintax:
+for variavel in range (inicio,fim)
+    comandos
+[range()] -> Método que aceita geração de números.
+[inicio]-> é incusivo é o primeiro número a ser usado.
+[fim]-> É exclusivo. O número utilizado é o anterior a esse
+
+## Escopo das Variáveis
+``Escopo Local`` -> A variavel só é acessada dentro da estrutura que ela foi criada.
+``Escopo Global`` -> A variavel pode ser acessada por todo mundo.
+
+## Varações das variaveis 
+Variavel em memória -> É declarada quando você não prtene utilizar essa variavel em outros cenários. 
+Variavel contadora ->  É utilizada para uma lógica onde a repetição ira ser alterada.
+
+`WHILE` -> É utilizada quando não sabemos quantas veze so progrma vai repetir. Ele repete quando uam codnição for verdadeira.
+Sintaxe:
+while condição:
+comandos
+
+
+
 ## Conversão de tipos em python
 1. int () -> A gente vai incluir qual variável/dado que queremos converter para número inteiro.
 2. float() ->  A gente vai incluir qual variável/dado que queremos converter para número decimal. 
