@@ -1,0 +1,1 @@
+# ele basicamente passou uma lista de exercicios.

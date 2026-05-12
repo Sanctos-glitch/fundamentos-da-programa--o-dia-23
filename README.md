@@ -25,6 +25,12 @@ not -> Ele altera o valor booleano da condição.
 
 2. input() -> Captura uma informação para levar ao terminal. (se vc quiser que algum comando relativo a perguntas de respostas funcionem, as perguntas vão orbigatoriamente levar isso pra aparecerem no terminal afim de serem respondidas no mesmo.) O que faz: Captura o que o usuário digitou e sempre entrega isso como uma string (str).
 
+3. lower() -> converte toda a string em minuscula.
+
+4. upper() -> converte toda a string em maiuscula.
+
+5. isdigit() -> Verifica se o valor contem numero.
+
 ## Formas em python 
 f(variavel) -> insere uma variavel dentro da string
 
