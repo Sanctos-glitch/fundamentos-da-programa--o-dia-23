@@ -75,3 +75,8 @@ comandos
 2.  Se vpcê observar alguma estrutura tipo nome(), 90% de chance de ser uma função.
 3. Python não tem constante, porém utilizamos o padrão case UPPERCASE, para simular aquela variavel não pode ser alterada.
 
+## Funções em Python
+`def` -> Define que uma função será declarada;
+`propriedade` -> [valor] em memória que irá receber um argumento.
+argumento-> Valor irá preencher o espaço da propriedade.
+
