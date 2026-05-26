@@ -80,3 +80,13 @@ comandos
 `propriedade` -> [valor] em memória que irá receber um argumento.
 argumento-> Valor irá preencher o espaço da propriedade.
 
+## Estruturas de Dados 
+`list ou lista` -> Amazena valores avulsos e podem ser heterogênea ou homogênea, Ou seja, pode quardar valores de um memso tipo ou de diferentes tipos.
+Ex: list = [] // Lista vazia
+list - ["William", 25, 1.82]
+
+`dict ou dicionario`-> Armazena conjuntos de valores (chave:valor). As chaves e valores podem ser heterogênea ou homogênea.
+1. Para obter o valor de um conjunto em dict, você acessa pela chave.
+Ex: dados_usuario = {} // Dicionário Vazio
+dados_usuario = {"nome: "William", "cpf': 111456985-65, "idade": 25"}
+dados_usuario´["nome"] => Devolve o valor, que "William".
