@@ -23,3 +23,4 @@ print(calcular_preco_pizza("P")) # 23
 print(calcular_preco_pizza("P", True)) # 31
 print(calcular_preco_pizza("M", False)) # 23
 
+
