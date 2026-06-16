@@ -90,3 +90,27 @@ list - ["William", 25, 1.82]
 Ex: dados_usuario = {} // Dicionário Vazio
 dados_usuario = {"nome: "William", "cpf': 111456985-65, "idade": 25"}
 dados_usuario´["nome"] => Devolve o valor, que "William".
+
+## POO
+1. python,todo molde é declarado atraves de uma classe => class
+2. Qualquer caracteristica dentro de uma classe é chamade de atributo e são declaradas com variaveis.
+3. As ações dentro de uma classe são chamadas de metodos e são declradas como [unções].
+
+4. [sef] -> signifia ee mesmo, o atributo de classe atual.
+
+5. [constructor] -> É a estrutura de comoa  classe será "copiada"
+
+
+# precisamos criar um molde de uma pessoa. -> class
+# caracteristicas -> atributos -> variaveis
+# ações -> métodos -> funções
+# metodo é uma função que esta dentro de uma classe
+
+## Cases em python
+Snake_case -> nome_aluno -> Nome de variaveis, metodos (funções) e arquivos.
+
+cammelCase -> nomeAluno -> Nome variaveis, metodos (funções). Mais atual
+
+PascalCase -> NomeAluno -> Classes
+
+kebab-case -> nome-aluno -> não utiliamos em python.
